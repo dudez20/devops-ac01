@@ -1,0 +1,7 @@
+A Operação de Serviço de Software é responsável por apoiar clientes nas tarefas necessárias para manter um sistema funcionando.
+Com conhecimento necessários em tecnologia, infraestrutura de sistemas, atendimento a usuários e gestão do nível de serviço, 
+Garante o dia a dia e viabiliza soluções para quando seu negócio exigir mais da tecnologia da informação.
+Principais tarefas:
+Suporte ao Usuario 
+Gestão de incidentes problemas
+Monitoramento da infraestrutura 
