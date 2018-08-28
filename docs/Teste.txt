@@ -3,3 +3,7 @@
 - Usaremos o SQL SERVER para armazenamento de dados .
 
 -usaremos hibernate e json para automatizaçao dos processos .
+
+
+Leonardo Nogueira Camargo
+RA: 1701686
