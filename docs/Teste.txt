@@ -1,0 +1,5 @@
+- Para melhor funcionabilidade do software iremos incluir a linguagem JAVA.
+
+- Usaremos o SQL SERVER para armazenamento de dados .
+
+-usaremos hibernate e json para automatizaçao dos processos .
