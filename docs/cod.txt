@@ -1,0 +1,5 @@
+- O sistema funcionará na plataforma web, será utilizado HTML, CSS, JavaScript e PHP. 
+
+- O sistema terá design responsível, então irá se adptar à qualquer dispositivo móvel.
+
+- Fará conexão com o banco de dados para consultar informações contida no mesmo e também inserir dados.
