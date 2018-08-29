@@ -1,5 +1,8 @@
-- O sistema funcionar· na plataforma web, ser· utilizado HTML, CSS, JavaScript e PHP. 
+- O sistema funcionar√° na plataforma web, ser√° utilizado HTML, CSS, JavaScript e PHP. 
 
-- O sistema ter· design responsÌvel, ent„o ir· se adptar ‡ qualquer dispositivo mÛvel.
+- O sistema ter√° design respons√≠vel, ent√£o ir√° se adptar √† qualquer dispositivo m√≥vel.
 
-- Far· conex„o com o banco de dados para consultar informaÁıes contida no mesmo e tambÈm inserir dados.
+- Far√° conex√£o com o banco de dados para consultar informa√ß√µes contida no mesmo e tamb√©m inserir dados.
+
+Aluno: Gabriel Costa
+RA: 1800700
